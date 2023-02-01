@@ -8,3 +8,6 @@ Customer dapat membatalkan  item yang dipilih atau menghapus semua pesanan
 Customer dapat melakukan pengecekan total harga
 Customer dapat menghitung total belanja dan ada fitur diskon dengan syarat tertentu
 # Flowchart
+![Doc2](https://user-images.githubusercontent.com/56928272/216104942-19efd018-81fd-44c6-b65c-f35838174cc8.png)
+# Deskripsi
+Modul kasir3.py mempunyai class transaksi 
