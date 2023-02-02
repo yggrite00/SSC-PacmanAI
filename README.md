@@ -182,3 +182,13 @@ method ini digunakan untuk perhitungan total harga yang harus dibayar customer d
                 discount = 0.05
         return diskon, discount
 ```        
+
+# Test
+Untuk menguji code diatas maka dilakukan test case di Jupyter Notebook.
+
+1. Gunakan kasir3.py dengan cara import kasir3 as k
+2. buat id transaksi dengan cara ID__= k.transaction()
+3. Input informasi barang yang ingin dibeli dengan ID__.add_item('nama',jumlah,harga)
+4. jika ingin melihat apakah barang sudah terinput maka gunakan print(ID__.order_table())
+5. jika ingin melihat daftar barang beserta total harganya maka bisa menggunakan ID__.show_order_table
+6
